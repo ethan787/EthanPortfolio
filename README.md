@@ -2,6 +2,8 @@
 
 Ethan Ortiz's responsive portfolio, built with React, TypeScript, and Vite.
 
+Read the [implementation summary and learning reflection](docs/IMPLEMENTATION_AND_LEARNING.md) for the architecture, CI design, test coverage, validation evidence, and lessons from building this portfolio.
+
 ## Getting started
 
 Requires Node.js 20.19+, 22.13+, or 24+. CI uses Node.js 22.
